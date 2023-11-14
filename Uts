@@ -9,7 +9,7 @@
 
 /**
  *
- * @author novemtri
+ * @author hazrulasri
  */
 public class TampilanKalkulator extends javax.swing.JFrame {
 
